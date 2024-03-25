@@ -1,5 +1,5 @@
 {
-  "name": "@intenda/opus-ui-json-builder",
+  "name": "@intenda/opus-ui-map-location-iq",
   "version": "0.1.0",
   "private": false,
   "main": "dist/library.js",
