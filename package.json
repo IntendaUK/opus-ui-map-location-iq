@@ -1,6 +1,6 @@
 {
   "name": "@intenda/opus-ui-map-location-iq",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": false,
   "main": "dist/library.js",
   "homepage": ".",
@@ -17,8 +17,8 @@
   },
   "keywords": [
     "opus-ui",
-    "component",
-    "library",
+    "location-iq",
+    "map",
     "opus"
   ],
   "peerDependencies": {
