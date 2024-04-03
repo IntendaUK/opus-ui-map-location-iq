@@ -2,7 +2,7 @@
 import React, { useEffect } from 'react';
 
 //External Helpers
-import { runScript } from 'opus-ui';
+import { runScript } from '@intenda/opus-ui';
 
 //Plugins
 import View from 'ol/View';

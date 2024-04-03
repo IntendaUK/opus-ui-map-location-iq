@@ -4,7 +4,7 @@ import { MapLocationIq } from './components/mapLocationIq';
 //PropSpecs
 import propsMapLocationIq from './components/mapLocationIq/props';
 
-import { registerComponentTypes } from 'opus-ui';
+import { registerComponentTypes } from '@intenda/opus-ui';
 
 registerComponentTypes([{
 	type: 'mapLocationIq',
