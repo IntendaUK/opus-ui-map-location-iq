@@ -1,0 +1,8 @@
+{
+	"components": [
+		{
+			"name": "mapLocationIq",
+			"path": "src/components/mapLocationIq"
+		}
+	]
+}
