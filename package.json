@@ -1,6 +1,6 @@
 {
 	"name": "@intenda/opus-ui-map-location-iq",
-	"version": "2.0.0",
+	"version": "3.0.0",
 	"private": false,
 	"main": "dist/library.js",
 	"homepage": "https://opus-ui.com",
@@ -22,7 +22,7 @@
 		"opus"
 	],
 	"peerDependencies": {
-		"@intenda/opus-ui": ">=2.0.0 < 3.0.0",
+		"@intenda/opus-ui": ">=3.0.0 < 4.0.0",
 		"babel-preset-react-app": "^10.0.1",
 		"react": ">=19.0.0 < 20.0.0",
 		"react-dom": ">=19.0.0 < 20.0.0",
